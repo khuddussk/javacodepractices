@@ -14,7 +14,7 @@ public class Main {
 
         //2. calulating reverse string using string builder
 
-        String input = "Hello";
+        String input = "Hello ";
         String reversed = reverseString(input);
         System.out.println("Reversed String Using String Builder: " + reversed);
 
